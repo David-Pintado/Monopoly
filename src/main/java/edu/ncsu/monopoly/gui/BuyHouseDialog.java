@@ -33,7 +33,7 @@ public class BuyHouseDialog extends JDialog {
 		c.doLayout();
 		this.pack();
 	}
-
+ //ff
 	private JButton buildCancelButton() {
 		JButton btn = new JButton("Cancel");
 		btn.addActionListener(new ActionListener(){
