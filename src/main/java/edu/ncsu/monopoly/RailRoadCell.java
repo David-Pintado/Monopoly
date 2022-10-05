@@ -13,6 +13,7 @@ public class RailRoadCell extends Cell {
 		RailRoadCell.price = price;
 	}
 	
+	@Override
 	public int getPrice() {
 		return RailRoadCell.price;
 	}
